@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using PlayGround.Samples;
+﻿using PlayGround.Samples;
 
 Console.WriteLine("Welcome");
 
